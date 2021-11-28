@@ -91,7 +91,9 @@ Testy manualne zostały przeprowadzone w trakcie laboratoriów.
 1. Gdy poziom wilgotności gleby był powyżej określonego, kwiat nie był podlewany.
 
 2. Gdy poziom wilgotności gleby był poniżej określonego oraz w zbiorniku znajdowała się odpowiednia ilość wody, kwiat został podlany.
+   
    a. Jeżeli poziom wilgotności ziemi zwiększył się do odpowiedniego poziomu, program nie uruchamiał już pompki.
+   
    b. Jeżeli poziom wilgotności ziemi po podlaniu nadal nie osiągnął odpowiedniego poziomu, program ponownie uruchamiał pompkę.
 Jednocześnie, program wygenerował raport o podlaniu.
 
